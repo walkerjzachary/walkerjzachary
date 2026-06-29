@@ -1,16 +1,17 @@
-## Hi there 👋
+# Zachary Walker
 
-<!--
-**walkerjzachary/walkerjzachary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical support / software-adjacent professional transitioning from English teaching into SaaS support engineering.
 
-Here are some ideas to get you started:
+I’m currently building full-stack projects focused on:
+- REST APIs
+- SQL databases
+- authentication
+- troubleshooting workflows
+- customer-support tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Current projects:
+- HelpDesk — support ticketing system
+- LessonTrack — lesson and student management platform
+
+Technologies:
+JavaScript, React, Node.js, Express, PostgreSQL, SQL, Python, HTML, CSS
